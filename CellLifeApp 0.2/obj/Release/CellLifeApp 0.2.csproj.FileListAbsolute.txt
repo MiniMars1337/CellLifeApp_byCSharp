@@ -1,0 +1,10 @@
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\bin\Release\CellLifeApp.exe.config
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\bin\Release\CellLifeApp.exe
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\bin\Release\CellLifeApp.pdb
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\obj\Release\CellLifeApp 0.2.csprojAssemblyReference.cache
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\obj\Release\CellLifeApp.ALApp.resources
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\obj\Release\CellLifeApp.Properties.Resources.resources
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\obj\Release\CellLifeApp 0.2.csproj.GenerateResource.cache
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\obj\Release\CellLifeApp 0.2.csproj.CoreCompileInputs.cache
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\obj\Release\CellLifeApp.exe
+D:\C# проекты\CellLifeApp\CellLifeApp 0.2\obj\Release\CellLifeApp.pdb

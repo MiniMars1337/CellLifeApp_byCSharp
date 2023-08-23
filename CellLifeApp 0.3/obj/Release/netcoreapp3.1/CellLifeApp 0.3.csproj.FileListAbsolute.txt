@@ -1,0 +1,30 @@
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\CellLifeApp 0.3.exe
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\Assets\Shaders\fragmentShader.frag
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\Assets\Shaders\vertexShader.vert
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\CellLifeApp 0.3.deps.json
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\CellLifeApp 0.3.runtimeconfig.json
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\CellLifeApp 0.3.runtimeconfig.dev.json
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\CellLifeApp 0.3.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\CellLifeApp 0.3.pdb
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.Compute.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.Core.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.Graphics.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.Input.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.Mathematics.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.OpenAL.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.Windowing.Common.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\bin\Release\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\obj\Release\netcoreapp3.1\CellLifeApp 0.3.csprojAssemblyReference.cache
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\obj\Release\netcoreapp3.1\CellLifeApp 0.3.AssemblyInfoInputs.cache
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\obj\Release\netcoreapp3.1\CellLifeApp 0.3.AssemblyInfo.cs
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\obj\Release\netcoreapp3.1\CellLifeApp 0.3.csproj.CoreCompileInputs.cache
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\obj\Release\netcoreapp3.1\CellLifeApp 0.3.csproj.CopyComplete
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\obj\Release\netcoreapp3.1\CellLifeApp 0.3.dll
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\obj\Release\netcoreapp3.1\CellLifeApp 0.3.pdb
+D:\C# проекты\CellLifeApp\CellLifeApp 0.3\obj\Release\netcoreapp3.1\CellLifeApp 0.3.genruntimeconfig.cache

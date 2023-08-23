@@ -1,0 +1,14 @@
+D:\C# проекты\ALProject\bin\Debug\ALProject.exe.config
+D:\C# проекты\ALProject\bin\Debug\ALProject.exe
+D:\C# проекты\ALProject\bin\Debug\ALProject.pdb
+D:\C# проекты\ALProject\obj\Debug\ALProject.csprojAssemblyReference.cache
+D:\C# проекты\ALProject\obj\Debug\ALProject.MainForm.resources
+D:\C# проекты\ALProject\obj\Debug\ALProject.Properties.Resources.resources
+D:\C# проекты\ALProject\obj\Debug\ALProject.csproj.GenerateResource.cache
+D:\C# проекты\ALProject\obj\Debug\ALProject.csproj.CoreCompileInputs.cache
+D:\C# проекты\ALProject\obj\Debug\ALProject.exe
+D:\C# проекты\ALProject\obj\Debug\ALProject.pdb
+D:\C# проекты\ALProject\bin\Debug\ManagedCuda.dll
+D:\C# проекты\ALProject\bin\Debug\System.Drawing.Common.dll
+D:\C# проекты\ALProject\bin\Debug\System.Drawing.Common.xml
+D:\C# проекты\ALProject\obj\Debug\ALProject.csproj.CopyComplete

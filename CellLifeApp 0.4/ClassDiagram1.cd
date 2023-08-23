@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CellLifeApp.CellParameters">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAEAAAEAQAAgAAABhAAEAAAgAAAAAAIAAAAQAACQA=</HashCode>
+      <FileName>CellParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.AntenaCell">
+    <Position X="17.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\AntenaCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.Cell">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAAAQAAEAAIAAAwAAAAAAAKAAAAEAAAACAAAA=</HashCode>
+      <FileName>FieldClasses\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.ColonialHeadCell">
+    <Position X="10.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>FieldClasses\ColonialHeadCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.ColonialSeedCell">
+    <Position X="12.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAABAAQAABAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>FieldClasses\ColonialSeedCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.Energy">
+    <Position X="19.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAIAAAAAAAAgAAA=</HashCode>
+      <FileName>FieldClasses\Energy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.Field">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAQAABAACAAEAACQAAAIAAAAiBAAIAAIQgEAAAABA=</HashCode>
+      <FileName>FieldClasses\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.GeneticCell">
+    <Position X="13.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgDAgAAAICBAIAQACgQAkiQAAAgAEAQASUCAgIQAAA=</HashCode>
+      <FileName>FieldClasses\GeneticCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.LeafletCell">
+    <Position X="20.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\LeafletCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.LifeCell">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\LifeCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.RootCell">
+    <Position X="24" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAEAAAAA=</HashCode>
+      <FileName>FieldClasses\RootCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.SingleHeadCell">
+    <Position X="14.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAAA=</HashCode>
+      <FileName>FieldClasses\SingleHeadCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.SingleSeedCell">
+    <Position X="17" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>FieldClasses\SingleSeedCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.WoodCell">
+    <Position X="4" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAAAAAAAAAAQABAAAAAAAAAAQAAABEAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\WoodCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.WoodICell" Collapsed="true">
+    <Position X="0.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\WoodICell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.WoodTCell" Collapsed="true">
+    <Position X="3" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\WoodTCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.WoodVCell" Collapsed="true">
+    <Position X="5.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\WoodVCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="CellLifeApp.FieldClasses.WoodXCell" Collapsed="true">
+    <Position X="7.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\WoodXCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp_0._4.MainWindow">
+    <Position X="26.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>5XWAYkQpDyCqJIiQCgmsYHQCCAgo0F8HMpFAAJnGAVM=</HashCode>
+      <FileName>MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp.PrintingClasses.FieldPrinter">
+    <Position X="25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="CellLifeApp.PrintingClasses.FieldPrinter.Position" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PrintingClasses\FieldPrinter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AUCEADgAgFAADAAAQAABQCQAQAAAABgQAKABABAAAAA=</HashCode>
+      <FileName>PrintingClasses\FieldPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellLifeApp.PrintingClasses.TextureArray">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQACIIAAAAAAIACEBAAAAACAAoAAAgAAAQAEoAAAE=</HashCode>
+      <FileName>PrintingClasses\TextureArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CellLifeApp.FieldClasses.ICanDie">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\ICanDie.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CellLifeApp.FieldClasses.ICanGenerateEnergy">
+    <Position X="18" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\ICanGenerateEnergy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CellLifeApp.FieldClasses.IHaveContacts">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\IHaveContacts.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CellLifeApp.FieldClasses.IRotateble">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldClasses\IRotateble.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="CellLifeApp.FieldClasses.Direct">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>FieldClasses\IRotateble.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
